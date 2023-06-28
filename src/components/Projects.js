@@ -39,8 +39,8 @@ export const Projects = () => {
 				title: "Authentication App",
 				description: "Registers, logs in, logs out a user.",
 				tech: "MongoDB, Express, React, Node, Mongoose, JWT, Redux, Bootstrap",
-				demo: "https://expense-tracker-wg8k.onrender.com/",
-				code: "https://github.com/britneyfrei/expense-tracker",
+				demo: "https://mern-auth-82os.onrender.com/",
+				code: "https://github.com/britneyfrei/mern-authentication",
 				src: auth,
 			},
 			{
