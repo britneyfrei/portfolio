@@ -3,6 +3,7 @@ import { ProjectCard } from "./ProjectCard";
 import dashboard from "../assets/img/project-dashboard.png";
 import weather from "../assets/img/project-weather.png";
 import expense from "../assets/img/project-expense.png";
+import auth from "../assets/img/project-auth.png";
 import coffee from "../assets/img/project-coffee.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 
@@ -33,6 +34,23 @@ export const Projects = () => {
 				demo: "https://expense-tracker-wg8k.onrender.com/",
 				code: "https://github.com/britneyfrei/expense-tracker",
 				src: expense,
+			},
+			{
+				title: "Authentication App",
+				description: "Registers, logs in, logs out a user.",
+				tech: "MongoDB, Express, React, Node, Mongoose, JWT, Redux, Bootstrap",
+				demo: "https://expense-tracker-wg8k.onrender.com/",
+				code: "https://github.com/britneyfrei/expense-tracker",
+				src: auth,
+			},
+			{
+				title: "Coffee Recipe App",
+				description:
+					"Allows user to enter a coffee recipe and saves the recipe.",
+				tech: "JavaScript, Bootstrap, Local Storage",
+				demo: "https://coffee-recipe-app.netlify.app/",
+				code: "https://github.com/britneyfrei/coffee-recipe-app",
+				src: coffee,
 			},
 		],
 		[

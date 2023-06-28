@@ -466,7 +466,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 	opacity: 1;
 }
 .proj-txtx h4 {
-	font-size: 26px;
+	font-size: 24px;
 	font-weight: 700;
 	letter-spacing: 0.8px;
 	line-height: 1.1em;
@@ -485,7 +485,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 	flex: 50%;
 	color: white;
 }
-.proj-imgbx .proj-buttons button h5 {
+.proj-imgbx .proj-buttons button h6 {
 	margin-bottom: 0;
 }
 .background-image-right {

@@ -13,10 +13,10 @@ export const ProjectCard = ({ title, description, tech, demo, code, src }) => {
 					</div>
 					<div className="proj-links pt-5 pt-md-2 pt-xl-4">
 						<a href={demo} target="_blank" rel="noreferrer noopener">
-							<h5>DEMO</h5>
+							<h6>DEMO</h6>
 						</a>
 						<a href={code} target="_blank" rel="noreferrer noopener">
-							<h5>CODE</h5>
+							<h6>CODE</h6>
 						</a>
 					</div>
 				</div>
